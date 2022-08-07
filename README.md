@@ -1,11 +1,11 @@
 # Python Developer Intern @ Arity Technologies
 
-###### Learned about Microservice.
+###### 1. Learned about Microservice.
 
-###### Learned how to manage database table relations.
+###### 2. Learned how to manage database table relations.
 
-###### Developed Data Import Script for eCommerce Database.
+###### 3. Developed Data Import Script for eCommerce Database.
 
-###### Learn about Structure of eCommerce Website Database.
+###### 4. Learn about Structure of eCommerce Website Database.
 
-###### Tech Stack Used = Python, SQL, Pandas.
+###### 5. Tech Stack Used = Python, SQL, Pandas.
